@@ -1,16 +1,7 @@
-# cara_ou_coroa
+# Jogo Cara ou Coroa
 
-A new Flutter application.
+Neste projeto, é criado o jogo Cara ou Coroa, com o novo comando utilizado widget.valor, é possível passar informações para outra tela quando acionado o Navigator.
 
-## Getting Started
+## Principais comandos utilizados
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+widget.valor; Navigator; Inserção de imagem; Stateless; GestureDetector; Scaffold; appBar; Container; Column;
