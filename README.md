@@ -1,6 +1,6 @@
 # Jogo Cara ou Coroa
 
-Neste projeto, é criado o jogo Cara ou Coroa, com o novo comando utilizado widget.valor, é possível passar informações para outra tela quando acionado o Navigator.
+Neste projeto é criado o jogo Cara ou Coroa, com o novo comando utilizado widget.valor, é possível passar informações de uma tela para outra quando acionado o Navigator.
 
 ## Principais comandos utilizados
 
